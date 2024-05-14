@@ -29,7 +29,7 @@ font-size: 25px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
-position:calc(30%);
+margin-left: 50%;
     
 }.menu__mensagem{
     background-color: #104602;
