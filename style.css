@@ -17,8 +17,7 @@ flex-shrink: 0;
 
 }
 .cabecalho__menu__link{
-    margin-top: auto;
-    margin-left: auto;
+
 text-decoration: none;
 width: 145px;
 height: 18px;
@@ -30,6 +29,7 @@ font-style: normal;
 font-weight: 400;
 line-height: normal;
 margin-left: 50%;
+text-align: center;
 
 .cabecalho__marca__logo{
     margin-top: 3%;
