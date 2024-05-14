@@ -5,11 +5,12 @@
 }
 
 .cabecalho{
-    background-color:#EDEDED
+    background-color:#EDEDED;
+
 }
 
 .cabecalho__menu{
-
+margin-top: 20%;
 
 }
 .cabecalho__menu__link{
