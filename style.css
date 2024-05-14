@@ -45,6 +45,11 @@ text-align:start;
     font-weight: 400;
     line-height: normal;
 }
+.menu__principal{
+    width: 1155px;
+    height: 647px;
+    background-color: #A7A4A4;
+}
 .NEXUS{
     height: 221px;
     width: 748;
