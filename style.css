@@ -46,10 +46,10 @@ text-align:start;
     line-height: normal;
 }
 .NEXUS{
-    text-decoration: none;
-    color: #104602;
--webkit-text-stroke-width: 1;
--webkit-text-stroke-color: #104602;
+    height: 221px;
+    width: 748;
+text-decoration: none;
+color: #104602;
 font-family: "Sedan SC";
 font-size: 200px;
 font-style: normal;
@@ -57,6 +57,8 @@ font-weight: 400;
 line-height: normal;
 }
 .STORE{
+    height: ;
+    width: ;
     text-decoration: none;
     color: #104602;
 font-family: Inter;
