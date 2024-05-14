@@ -45,6 +45,22 @@ text-align:start;
     font-weight: 400;
     line-height: normal;
 }
-.menu__principal{
-    background-color: #EDEDED;
+.NEXUS{
+    color: #104602;
+
+-webkit-text-stroke-width: 1;
+-webkit-text-stroke-color: #104602;
+font-family: "Sedan SC";
+font-size: 200px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.STORE{
+    color: #104602;
+font-family: Inter;
+font-size: 100px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
 }
