@@ -6,7 +6,9 @@
 
 .cabecalho{
     background-color:#EDEDED;
-    
+    width: 1440px;
+height: 100px;
+flex-shrink: 0;
 }
 .cabecalho__marca__logo{
     margin-top: 1%;
