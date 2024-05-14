@@ -18,4 +18,8 @@
     color: #000;
     font-family: "Sedan SC";
     
+}.menu__mensagem{
+    background-color:#104602;
+    text-align: center;
+    font-family: "Sedan SC";
 }
