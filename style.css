@@ -10,12 +10,9 @@
 
 .cabecalho__menu__link{
  text-decoration: none;
-    margin-left: 75%;
- margin-bottom: -50px;
+    margin-left: 85%;
+
  color: #000;
 font-family: "Sedan SC";
-font-size: 25px;
-font-style: normal;
-font-weight: 400;
-line-height: normal;
+
 }
