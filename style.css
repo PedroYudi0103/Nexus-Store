@@ -9,6 +9,16 @@
     width: 1440px;
 height: 100px;
 flex-shrink: 0;
+}
+.cabecalho__marca__logo{
+    margin-top: 3%;
+    margin-left: 2%;
+}
+.cabecalho__menu{
+
+
+}
+.cabecalho__menu__link{
 text-decoration: none;
 width: 145px;
 height: 18px;
@@ -20,18 +30,8 @@ font-style: normal;
 font-weight: 400;
 line-height: normal;
 margin-left: 50%;
-}
-.cabecalho__marca__logo{
-    margin-top: 3%;
-    margin-left: 2%;
-}
-.cabecalho__menu{
-
-
-}
-
     
-.menu__mensagem{
+}.menu__mensagem{
     background-color: #104602;
     color: #A7A4A4;
     text-align: center;
