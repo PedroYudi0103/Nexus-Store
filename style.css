@@ -6,11 +6,13 @@
 
 .cabecalho{
     background-color:#EDEDED;
-
+    
 }
-
+.cabecalho__marca__logo{
+    margin-top: 10%;
+}
 .cabecalho__menu{
-margin-top: 20%;
+
 
 }
 .cabecalho__menu__link{
