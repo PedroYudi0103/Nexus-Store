@@ -15,7 +15,8 @@ flex-shrink: 0;
     margin-left: 2%;
 }
 .cabecalho__menu{
-
+    margin-top: auto;
+    margin-left: auto;
 
 }
 .cabecalho__menu__link{
