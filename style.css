@@ -20,9 +20,17 @@ flex-shrink: 0;
 }
 .cabecalho__menu__link{
     text-decoration: none;
-    margin-left: 60%;
-    color: #000;
-    font-family: "Sedan SC";
+    width: 145px;
+height: 18px;
+flex-shrink: 0;
+color: #000;
+
+text-align: center;
+font-family: "Sedan SC";
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
     
 }.menu__mensagem{
     background-color: #104602;
