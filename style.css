@@ -9,6 +9,7 @@
 }
 
 .cabecalho__menu__link{
+ list-style: none;
     margin-left: 87%;
  margin-bottom: -50px;
  color: #000;
